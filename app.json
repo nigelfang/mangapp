@@ -1,0 +1,12 @@
+{
+  "name": "mangapp",
+  "displayName": "mangapp",
+  "expo": {
+    "name": "mangapp",
+    "slug": "mangapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
